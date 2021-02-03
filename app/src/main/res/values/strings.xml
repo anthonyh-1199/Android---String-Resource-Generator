@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Lab 2B</string>
+    <string name="get_help">GET HELP</string>
+    <string name="textview">TextView</string>
+    <string name="press_the_button_to_get_help">Press the button to get help...</string>
 
     <string-array name="sentences">
         <item>you get knocked out</item>
